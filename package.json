@@ -1,0 +1,12 @@
+{
+  "name": "ubac-go-QA-doc",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "packageManager": "yarn@3.6.1",
+  "devDependencies": {
+    "@vuepress/plugin-docsearch": "next",
+    "vuepress": "next"
+  }
+}
